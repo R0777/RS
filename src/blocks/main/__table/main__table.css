@@ -1,0 +1,21 @@
+.main__table {
+  background: #000;
+  color: #eee;
+  max-width: 900px;
+  min-height: 30vh;
+  margin: 5% auto;
+  border: 2px solid #eee;
+  display: none;
+}
+
+th {
+  padding: 25px;
+}
+
+td {
+  padding: 25px;
+}
+
+.active {
+  display: block;
+}

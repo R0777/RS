@@ -1,0 +1,25 @@
+@import url(./__logo/header__logo.css);
+@import url(./__menu/header__menu.css);
+@import url(./__menu-item/header__menu-item.css);
+@import url(./__menu-list/header__menu-list.css);
+@import url(./__menu-list-item/header__menu-list-item.css);
+@import url(./__menu-navigation/header__menu-navigation.css);
+
+.header {
+  font-family: 'Inter','Arial', sans-serif;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 22px;
+  align-items: center;
+  width: 100%;
+  display: flex;
+  background: #f8f8f8;
+  box-sizing: border-box;
+  border-bottom: 1px solid rgba(84, 84, 84, 0.7);
+}
+
+@media screen and (max-width: 400px) {
+  .header {
+  padding: 28px 0 31px 27px;
+  }
+}

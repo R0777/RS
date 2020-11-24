@@ -1,0 +1,16 @@
+.header__menu-item {
+  display: block;
+  position: relative;
+  padding: 20px 15px;
+  cursor: pointer;
+}
+
+.header__menu-item:last-child {
+  margin-left: auto;
+  justify-self: end;
+}
+
+.header__menu-item:hover {
+background: #e7e7e7;
+color: #555555;
+}

@@ -1,0 +1,6 @@
+@import url(./__table/main__table.css);
+
+.main {
+  width: 100%;
+  min-height: 70vh;
+}

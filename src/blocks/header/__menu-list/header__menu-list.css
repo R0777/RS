@@ -1,0 +1,15 @@
+.header__menu-list {
+  display: none;
+  background: #fff;
+  border: 1px solid #c9c9c9;
+  border-radius: 0 0 5px 5px;
+  box-sizing: border-box;
+  position: absolute;
+  padding: 20px 15px;
+  margin: 0;
+  left: 89px
+}
+
+.active {
+  display: block;
+}

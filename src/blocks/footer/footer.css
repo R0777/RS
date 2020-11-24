@@ -1,0 +1,7 @@
+@import url(./__copy/footer__copy.css);
+
+.footer {
+  max-width: 882px;
+  box-sizing: border-box;
+  padding-left: 25px
+}
